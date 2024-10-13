@@ -1,0 +1,14 @@
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/bin/Debug/net8.0/The Account Class
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/bin/Debug/net8.0/The Account Class.deps.json
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/bin/Debug/net8.0/The Account Class.runtimeconfig.json
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/bin/Debug/net8.0/The Account Class.dll
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/bin/Debug/net8.0/The Account Class.pdb
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/Debug/net8.0/The Account Class.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/Debug/net8.0/The Account Class.AssemblyInfoInputs.cache
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/Debug/net8.0/The Account Class.AssemblyInfo.cs
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/Debug/net8.0/The Account Class.csproj.CoreCompileInputs.cache
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/Debug/net8.0/The Account Class.dll
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/Debug/net8.0/refint/The Account Class.dll
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/Debug/net8.0/The Account Class.pdb
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/Debug/net8.0/The Account Class.genruntimeconfig.cache
+/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/Debug/net8.0/ref/The Account Class.dll
