@@ -1,11 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Account Class", "The Account Class\The Account Class.csproj", "{8AE0E331-886A-44B7-8141-3B033045E044}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Account_Class", "The_Account_Class\The_Account_Class.csproj", "{8AE0E331-886A-44B7-8141-3B033045E044}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{496488DB-180E-48F8-9FD4-C5D42EAE337E}"
-	ProjectSection(SolutionItems) = preProject
-		docker-compose.yml = docker-compose.yml
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Ball_Class", "The_Ball_Class\The_Ball_Class.csproj", "{79AAB2A1-8585-4E60-8557-7FBC5200A716}"
 EndProject

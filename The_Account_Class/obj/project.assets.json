@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/The Account Class.csproj",
-      "projectName": "The Account Class",
-      "projectPath": "/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/The Account Class.csproj",
+      "projectUniqueName": "/home/paulorh/RiderProjects/LP2_Exercises/The_Account_Class/The_Account_Class.csproj",
+      "projectName": "The_Account_Class",
+      "projectPath": "/home/paulorh/RiderProjects/LP2_Exercises/The_Account_Class/The_Account_Class.csproj",
       "packagesPath": "/home/paulorh/.nuget/packages/",
-      "outputPath": "/home/paulorh/RiderProjects/LP2_Exercises/The Account Class/obj/",
+      "outputPath": "/home/paulorh/RiderProjects/LP2_Exercises/The_Account_Class/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/paulorh/.nuget/NuGet/NuGet.Config"
